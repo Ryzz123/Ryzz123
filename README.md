@@ -3,9 +3,8 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 ### Social Media:
 <details>
-<p>
-    <a href="http://wa.me/6281906412862 target="blank"><img src="" /></a>
-</p>
+ <summary><strong>My Social Media</strong></summary>
+    <a href="http://wa.me/6281906412862 target="blank"><img src="https://www.svgrepo.com/show/217789/whatsapp.svg" width="20px" /></a> WhatsApp
 </details>
 
 ### Tools:
