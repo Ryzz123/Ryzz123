@@ -29,7 +29,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 ### Let's connect!
 <p>
-    <a href="https://bagusfe.id" target="blank"><img src="https://img.shields.io/badge/Website-https://bagusfe.com-green?" /></a>
+    <a href="https://my-skill.github.io" target="blank"><img src="https://img.shields.io/badge/Website-https%3A%2F%2Fmy--skill.github.io-orange?" /></a>
     <a href="https://linkedin.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=linkedin" /></a>
     <a href="https://medium.com/@bagusfe" target="blank"><img src="https://img.shields.io/badge/Bagus_Frayoga-30302f?style=flat&logo=medium" /></a>
     <a href="https://tw.bagusfe.com" target="blank"><img src="https://img.shields.io/badge/@bagusfe_-30302f?style=flat&logo=twitter" /></a>
