@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Bagus!
+# Hi there 👋 , I'm Ryzz!
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
 ### Tools:
@@ -37,7 +37,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 </p>
 
 <!--
-**bagusfe/bagusfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ryzz/ryzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
