@@ -4,10 +4,10 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 ### Social Media:
 <details>
  <summary><strong>My Social Media📲</strong></summary>
-    <a href="http://wa.me/6281906412862 target="blank"><img src="https://www.svgrepo.com/show/217789/whatsapp.svg" width="20px" /></a> WhatsApp
-    <br><a href="http://instagram.com/ikyy45_id target="blank"><img src="https://www.svgrepo.com/show/134478/instagram.svg" width="20px" /></a> <bold>Instagram</bold>
-    <br><a href="https://youtube.com/channel/UCVUYKi6DJdK_HloRNzhg31A target="blank"><img src="https://www.svgrepo.com/show/134513/youtube.svg" width="20px" /></a> YouTube
-    <br><a href="https://tiktok.com/@ryzz_hmm target="blank"><img src="https://www.svgrepo.com/show/349530/tiktok.svg" width="20px" /></a> Tiktok
+    <a href="http://wa.me/6281906412862 target="blank"><img src="https://www.svgrepo.com/show/217789/whatsapp.svg" width="20px" /></a> <b>WhatsApp</b>
+    <br><a href="http://instagram.com/ikyy45_id target="blank"><img src="https://www.svgrepo.com/show/134478/instagram.svg" width="20px" /></a> <b>Instagram</b>
+    <br><a href="https://youtube.com/channel/UCVUYKi6DJdK_HloRNzhg31A target="blank"><img src="https://www.svgrepo.com/show/134513/youtube.svg" width="20px" /></a> <b>YouTube</b>
+    <br><a href="https://tiktok.com/@ryzz_hmm target="blank"><img src="https://www.svgrepo.com/show/349530/tiktok.svg" width="20px" /></a> <b>Tiktok</b>
 </details>
 
 ### Tools:
