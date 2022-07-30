@@ -1,6 +1,13 @@
 # Hi there 👋 , I'm Ryzz!!
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
+### Social Media:
+<details>
+<p>
+    <a href="http://wa.me/6281906412862 target="blank"><img src="" /></a>
+</p>
+</details>
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
