@@ -18,7 +18,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
     - 👯 I’m looking to collaborate on Automation Project, Mobile Apps. </br>
     - 🤔 I’m looking for help with master of programming. hehe </br>
     - 💬 Ask me about anything.</br>
-    - 📫 How to reach me: <a href="mailto:goodfe@yahoo.com">Email me!</a>  </br>
+    - 📫 How to reach me: <a href="mailto:support@belanjasosmed.my.id">Email me!</a>  </br>
     - 😄 Pronouns: He/Him </br>
     - ⚡ Fun fact: ... </br>
 </details>
