@@ -1,4 +1,4 @@
-# Hi there 👋 , I'm Ryzz!!
+# <Img src="https://avatars.githubusercontent.com/u/102559807?v=4" width="30" /> I'm Ryzz!!
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
 <img src="https://i.postimg.cc/13HN8VR7/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f6164.gif" height=120 />
