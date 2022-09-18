@@ -36,6 +36,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Ryzz123&hide=contribs,prs&show_icons=true&hide_border=true&title_color=000" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryzz123&layout=compact" height=180 />
+    <img src="https://assets.vercel.com/image/upload/f_auto,c_limit,q_auto,w_2160/front/analytics/example-ui.png" height=120 />
 </p>
 
 ### Let's connect!
