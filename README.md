@@ -3,6 +3,10 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 <img src="https://i.postimg.cc/13HN8VR7/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f7375706572666f6c696f2f696d6167652f75706c6f6164.gif" height=120 />
 
+### My Github Trophy
+![](https://github-profile-trophy.vercel.app/?username=Ryzz123&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
+
+
 ### Social Media:
 <details>
  <summary><strong>My Social Media📲</strong></summary>
