@@ -6,6 +6,7 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 ### My Github Trophy
 ![](https://github-profile-trophy.vercel.app/?username=Ryzz123&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
 
+<a href="http://www.github.com/Ryzz123"><img src="https://activity-graph.herokuapp.com/graph?username=ryzz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ### Social Media:
 <details>
