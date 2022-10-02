@@ -1,6 +1,8 @@
 # <Img src="https://avatars.githubusercontent.com/u/102559807?v=4" width="30" /> I'm Ryzz!! <img src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" width="20" />
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
+console.log("Bismillahirrahmanirrahim Bisa jadi development terkenal, aamiin");
+
 <img src="https://github.githubassets.com/images/modules/notifications/inbox-zero-dark.svg" height=120 />
 
 ### My Github Trophy
@@ -8,13 +10,86 @@ Currently working with Robotic Process Automation, but I love learn new thing in
 
 <a href="http://www.github.com/Ryzz123"><img src="https://activity-graph.herokuapp.com/graph?username=ryzz&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-### Social Media:
-<details>
- <summary><strong>My Social Media📲</strong></summary>
-    <a href="http://wa.me/6281906412862 target="blank"><img src="https://www.svgrepo.com/show/217789/whatsapp.svg" width="20px" /></a> <b>WhatsApp</b>
-    <br><a href="http://instagram.com/ikyy45_id target="blank"><img src="https://www.svgrepo.com/show/134478/instagram.svg" width="20px" /></a> <b>Instagram</b>
-    <br><a href="https://youtube.com/channel/UCVUYKi6DJdK_HloRNzhg31A target="blank"><img src="https://www.svgrepo.com/show/134513/youtube.svg" width="20px" /></a> <b>YouTube</b>
-    <br><a href="https://tiktok.com/@ryzz_hmm target="blank"><img src="https://www.svgrepo.com/show/349530/tiktok.svg" width="20px" /></a> <b>Tiktok</b>
+### MY LANGGUAGES
+
+<details><summary><b>Programming Langguages</b></summary>
+
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" />
+
+</details>
+
+<details><summary><b>Frontend Development</b></summary>
+
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" />
+<br><br>
+<img width="30" src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" />
+
+</details>
+
+<details><summary><b>Framework</b></summary>
+
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" />
+<br><br>
+<img width="30" src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" />
+<br><br>
+<img width="30" src="https://cdn.worldvectorlogo.com/logos/django.svg" />
+
+</details>
+
+<details><summary><b>Backend Development</b></summary>
+
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" />
+<br><br>
+<img width="30" src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" />
+
+</details>
+
+<details><summary><b>Mobile App Development</b></summary>
+
+<img width="30" src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" />
+<br><br>
+<img width="30" src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" />
+<br><br>
+<img width="30" src="https://reactnative.dev/img/header_logo.svg" />
+<br><br>
+<img width="30" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" />
+
+</details>
+
+<details><summary><b>Database</b></summary>
+
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" />
+<br><br>
+<img width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" />
+<br><br>
+<img width="30" src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" />
+
 </details>
 
 ### Tools:
