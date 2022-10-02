@@ -1,7 +1,9 @@
 # <Img src="https://avatars.githubusercontent.com/u/102559807?v=4" width="30" /> I'm Ryzz!! <img src="https://c.tenor.com/TReUojNlZ6wAAAAi/js-javascript.gif" width="20" />
 Currently working with Robotic Process Automation, but I love learn new thing in programming such as Javascript, Swift, Python.  
 
-console.log("Bismillahirrahmanirrahim Bisa jadi development terkenal, aamiin");
+```js
+console.log("Bismillahirrahmanirrahim Bisa jadi Full stack Developer terkenal, aamiin");
+```
 
 <img src="https://github.githubassets.com/images/modules/notifications/inbox-zero-dark.svg" height=120 />
 
