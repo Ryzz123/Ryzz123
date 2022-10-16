@@ -120,7 +120,9 @@ console.log("Bismillahirrahmanirrahim Bisa jadi Full stack Developer terkenal, a
 </p>
 
 <p>
+   <a href="https://www.akuryzz.site">
    <img src="https://i.postimg.cc/KYFGTvNv/20221017-010708.jpg" />
+   </a>
 </p>
 
 ### Let's connect!
