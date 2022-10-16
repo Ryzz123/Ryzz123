@@ -119,6 +119,10 @@ console.log("Bismillahirrahmanirrahim Bisa jadi Full stack Developer terkenal, a
     <img src="https://assets.vercel.com/image/upload/f_auto,c_limit,q_auto,w_2160/front/analytics/example-ui.png" height=120 />
 </p>
 
+<p>
+   <img src="https://i.postimg.cc/KYFGTvNv/20221017-010708.jpg" />
+</p>
+
 ### Let's connect!
 <p>
     <a href="https://my-skill.github.io" target="blank"><img src="https://img.shields.io/badge/Website-https%3A%2F%2Fmy--skill.github.io-orange?" /></a>
