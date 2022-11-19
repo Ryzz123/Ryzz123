@@ -1,7 +1,7 @@
 <img src="https://github.githubassets.com/images/modules/notifications/inbox-zero-dark.svg" height=120 />
 
 ### Trophy
-![](https://github-profile-trophy.vercel.app/?username=Ryzz123&theme=onedark&rank=S,SS,SSS,A,AA,AAA,SECRET)
+![](https://github-profile-trophy.vercel.app/?username=Ryzz123&theme=radical&rank=S,SS,SSS,A,AA,AAA,SECRET)
 
 
 ### Stats:
