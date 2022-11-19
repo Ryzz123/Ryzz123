@@ -1,3 +1,4 @@
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hai..+Nama+Saya+Ryzz.;Saya+Full+Stack+Developer.;)
 <img src="https://i.postimg.cc/k4hjw3xr/20221120-033244.jpg" />
 
 ### Trophy & Stats
