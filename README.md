@@ -9,6 +9,8 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryzz123&layout=compact&theme=radical&title_color=teal&hide_border=true" height=180 />
 </p>
 
+![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)
+
 ### Tools:
 <p>
     <img src="https://img.shields.io/badge/OS-MacOS-blue?&logo=apple" />
