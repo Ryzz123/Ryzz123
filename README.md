@@ -1,4 +1,4 @@
-<img src="https://i.postimg.cc/fLy2Yrn3/20221120-025950.jpg" />
+<img src="https://i.postimg.cc/k4hjw3xr/20221120-033244.jpg" />
 
 ### Trophy & Stats
 ![](https://github-profile-trophy.vercel.app/?username=Ryzz123&theme=radical&rank=S,SS,SSS,A,AA,AAA,SECRET)
