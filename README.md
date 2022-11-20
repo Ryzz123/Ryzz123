@@ -9,7 +9,7 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryzz123&layout=compact&theme=radical&title_color=teal&hide_border=true" height=180 />
 </p>
 
-![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)
+[![Spotify](https://novatorem-weld-ten.vercel.app/api/spotify)](https://open.spotify.com/user/313wlie6isewibst7o7aokeiikh4?si=2yTgCBgpRGG3ZgbmN_-R_w&utm_source=copy-link)
 
 ### Tools:
 <p>
