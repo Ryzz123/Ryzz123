@@ -2,7 +2,7 @@
 <img src="https://i.postimg.cc/k4hjw3xr/20221120-033244.jpg" />
 
 ### Trophy & Stats
-![](https://github-profile-trophy.vercel.app/?username=Ryzz123&theme=radical&rank=S,SS,SSS,A,AA,AAA,SECRET)
+![](https://github-profile-trophy.vercel.app/?username=Ryzz123&theme=algolia&rank=S,SS,SSS,A,AA,AAA,SECRET)
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Ryzz123&hide=contribs,prs&show_icons=true&hide_border=true&title_color=teal&show_icons=true&theme=radical" />
