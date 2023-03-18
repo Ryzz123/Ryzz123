@@ -6,6 +6,7 @@
 
 <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Ryzz123&hide=contribs,prs&show_icons=true&hide_border=true&title_color=teal&show_icons=true&theme=radical" />
+     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryzz123&theme=radical&hide_border=true" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryzz123&layout=compact&theme=radical&title_color=teal&hide_border=true" height=180 />
 </p>
 
