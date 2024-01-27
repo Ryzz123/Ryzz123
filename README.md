@@ -1,5 +1,8 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Righteous&color=016EEA&size=60&center=true&vCenter=true&width=900&height=100&lines=Hai..+Nama+Saya+Ryzz.;Saya+Full+Stack+Developer.;)
-<img src="https://i.postimg.cc/k4hjw3xr/20221120-033244.jpg" />
+<p align="center">
+    <a href="https://discord.com/users/758302783647514657" target="_blank" rel="noreferrer">
+    <img align="center" src="https://lanyard.cnrad.dev/api/758302783647514657" alt="ryzz" /> 
+    </a>
+</p>
 
 
 ### Trophy & Stats
