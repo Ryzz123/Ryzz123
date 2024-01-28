@@ -11,10 +11,6 @@
 </p>
 
 <p align="center">
-    <img src="https://github-profile-trophy.vercel.app/?username=Ryzz123&theme=algolia&rank=S,SS,SSS,A,AA,AAA,SECRET" alt="github-profile-trophy" />
-</p>
-
-<p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Ryzz123&hide=contribs,prs&show_icons=true&hide_border=true&title_color=teal&show_icons=true&theme=radical" alt="github stats" />
 </p>
 <p align="center">
