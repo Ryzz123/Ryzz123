@@ -10,7 +10,6 @@
     <img src="https://raw.githubusercontent.com/ryzz123/ryzz123/output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only" alt="github contribution grid snake animation" />
 </p>
 
-### Trophy & Stats
 <p align="center">
     <img src="https://github-profile-trophy.vercel.app/?username=Ryzz123&theme=algolia&rank=S,SS,SSS,A,AA,AAA,SECRET" alt="github-profile-trophy" />
 </p>
