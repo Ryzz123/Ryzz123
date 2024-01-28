@@ -4,6 +4,8 @@
     </a>
 </p>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/ryzz123/ryzz123/output/only-svg/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)![github contribution grid snake animation](https://raw.githubusercontent.com/ryzz123/ryzz123/output/only-svg/github-contribution-grid-snake.svg#gh-light-mode-only)
+
 
 ### Trophy & Stats
 ![](https://github-profile-trophy.vercel.app/?username=Ryzz123&theme=algolia&rank=S,SS,SSS,A,AA,AAA,SECRET)
