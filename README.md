@@ -14,7 +14,7 @@
     <img src="https://github-readme-stats.vercel.app/api?username=Ryzz123&hide=prs&show_icons=true&hide_border=true&title_color=teal&custom_title=.....&hide_title=true&rank_icon=github&theme=radical" alt="github stats" />
 </p>
 <p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ryzz123&theme=radical&hide_border=true" alt="github streak stats" />
+    <img src="https://streak-stats.demolab.com/?user=Ryzz123&theme=radical&hide_border=true" alt="github streak stats" />
 </p>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ryzz123&layout=compact&theme=radical&title_color=teal&hide_title=true&hide_border=true&hide_progress=false" height=180 alt="top languages" />
